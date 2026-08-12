@@ -6,7 +6,7 @@
     "type": "offline"
   },
  "server": {
-  "ip": "class9thfaah.playserver.pro",
+  "ip": "class9thfaah.play.hosting",
   "port": 25565,
   "version": "26.2",
   "try-creative": false
