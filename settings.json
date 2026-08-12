@@ -10,8 +10,7 @@
   "port": 25565,
   "version": "26.2",
   "try-creative": false
-}
-  },
+},
   "position": {
     "enabled": true,
     "x": 0,
