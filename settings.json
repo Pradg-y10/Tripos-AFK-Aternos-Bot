@@ -6,8 +6,8 @@
     "type": "offline"
   },
  "server": {
-  "ip": "Tripos.aternos.me",
-  "port": 41843,
+  "ip": "class9thfaah.playserver.pro",
+  "port": 25565,
   "version": "26.2",
   "try-creative": false
 }
