@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tripos.aternos.me:41843",
-    "port": 27586,
+    "ip": "Tripos.aternos.me",
+    "port": 41843,
     "version": "",
     "try-creative": false
   },
